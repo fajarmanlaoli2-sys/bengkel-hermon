@@ -1,0 +1,6 @@
+{
+  "name": "Bengkel Hermon",
+  "description": "Company Profile & Marketing Website Bengkel Hermon - Specialist service mobil panggilan & di rumah, berpusat di Cilame, Bandung Raya.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
